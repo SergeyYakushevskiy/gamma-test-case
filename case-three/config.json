@@ -1,0 +1,6 @@
+{
+  "worker_count": 4,
+  "col_a": "price",
+  "col_b": "tax",
+  "threshold": 100.0
+}
